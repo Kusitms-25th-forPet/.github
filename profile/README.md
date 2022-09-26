@@ -54,7 +54,7 @@
 <br />
 
 # 기술 스택
-- React, typescript, Naver Maps API
+- React, typescript, emotion, Naver Maps API
 - Spring Boot, MySQL
 - Heroku
 - Figma
