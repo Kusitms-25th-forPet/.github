@@ -64,9 +64,9 @@
 # 개발자
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/asd3638"><img src="https://github.com/Lee-Yeonghyeon.png" width="100px;" alt=""/><br /><sub><b>이영현(FE)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/k12ms26"><img src="https://github.com/Woojung0618.png" width="100px;" alt=""/><br /><sub><b>전우정(FE)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Woojung0618"><img src="https://github.com/yujeongkimm.png" width="100px;" alt=""/><br /><sub><b>김유정(BE)</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/leeejaaane"><img src="https://github.com/Jeongminyooa.png" width="100px;" alt=""/><br /><sub><b>유정민(BE)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Lee-Yeonghyeon"><img src="https://github.com/Lee-Yeonghyeon.png" width="100px;" alt=""/><br /><sub><b>이영현(FE)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Woojung0618"><img src="https://github.com/Woojung0618.png" width="100px;" alt=""/><br /><sub><b>전우정(FE)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yujeongkimm"><img src="https://github.com/yujeongkimm.png" width="100px;" alt=""/><br /><sub><b>김유정(BE)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Jeongminyooa"><img src="https://github.com/Jeongminyooa.png" width="100px;" alt=""/><br /><sub><b>유정민(BE)</b></sub></a><br /></td>
 <tr>
 </table>
